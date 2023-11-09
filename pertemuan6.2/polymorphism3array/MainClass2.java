@@ -2,8 +2,6 @@ package pertemuan6.polymorphism3array;
 
 import java.io.*;
 
-import pertemuan6.subPersegi;
-
 public class MainClass2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
